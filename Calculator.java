@@ -8,7 +8,7 @@ import javax.swing.event.DocumentListener;
 import javax.swing.text.DefaultHighlighter.DefaultHighlightPainter;
 import javax.swing.JOptionPane;
 
-class MyEdit17{
+class Calculator{
     public static void main(String[] args){
         MyWindow mw = new MyWindow();
     }
